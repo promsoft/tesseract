@@ -1,6 +1,8 @@
 #! /usr/bin/env python
 # coding=cp1251
 
+
+
 import sys
 import pygame
 import math
